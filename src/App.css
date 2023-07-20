@@ -54,7 +54,7 @@ p {
 .product-container > .product-image {
   border-radius: 0.8rem 0 0 0.8rem;
   width: 100%;
-  background-image: url("../public/assets/image-product-desktop.jpg");
+  background-image: url("/assets/image-product-desktop.jpg");
   background-size: cover;
   padding: 2.1rem;
 }
@@ -137,7 +137,7 @@ p {
     width: auto;
   }
   .product-container > .product-image {
-    background-image: url(../public/assets/image-product-mobile.jpg);
+    background-image: url(/assets/image-product-mobile.jpg);
     height: 240px;
     background-size: cover;
     background-position: center;
