@@ -15,7 +15,7 @@ export default function ProductInfo() {
         <p className="price">$169.99 </p>
       </div>
       <button className="btn">
-        <img src="../assets/icon-cart.svg" /> Add to Cart
+        <img src="/assets/icon-cart.svg" /> Add to Cart
       </button>
     </div>
   );
