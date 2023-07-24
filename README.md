@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-7fIoMWfiMZ)
 - Live Site URL: [Netlify Preview Card](https://gleaming-cobbler-1b8ec6.netlify.app/)
 
 ## My process
@@ -65,7 +65,7 @@ I'd like to dive into using grids a bit more I'm not very confident in that are,
 ## Author
 
 - Author - [Denise M]
-- Frontend Mentor - [@moncada](https://www.frontendmentor.io/profile/moncadad)
+- Frontend Mentor - [@moncadad](https://www.frontendmentor.io/profile/moncadad)
 
 ## Acknowledgments
 
